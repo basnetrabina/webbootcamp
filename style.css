@@ -1,0 +1,15 @@
+
+.list1 li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    margin-left: 100px;
+}
+.list1{
+    display:flex;
+    border: 1px solid darkblue;
+    background-color: darkblue;
+
+}
+    
